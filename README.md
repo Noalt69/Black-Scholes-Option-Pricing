@@ -1,5 +1,6 @@
 # Black-Scholes-Option-Pricing
-Objective: To implement the Black-Scholes model in Python to price European call and put options. The project will extend into sensitivity analysis with Greeks and potential comparisons with other pricing models.
+Objective: To implement the Black-Scholes model in Python to price European call and put options./n
+The project will extend into sensitivity analysis with Greeks and potential comparisons with other pricing models./n
 Financial Concepts:
 European options (call/put).
 The Black-Scholes equation and its assumptions.
